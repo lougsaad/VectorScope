@@ -25,3 +25,9 @@ App link: https://ee-iameztoy.projects.earthengine.app/view/vectorscope
 5. Select a year (default = 2020) and adjust the similarity threshold.  
 6. Click **Run Analysis** to display the heat-map and mask.  
 7. (Optional) Enter an asset ID, choose a projection, and click **Export Mask → Asset**.
+
+8. ## More about the input Embeddings
+
+Brown, C. F., Kazmierski, M. R., Pasquarella, V J., Rucklidge, W. J., Samsikova, M., Zhang, C., Shelhamer, E., Lahera, E., Wiles, O., Ilyushchenko, S., Gorelick, N., Zhang, L. L., Alj, S., Schechter, E., Askay, S., Guinan, O., Moore, R., Boukouvalas, A., & Kohli, P.(2025). AlphaEarth Foundations: An embedding field model for accurate and efficient global mapping from sparse label data. arXiv preprint arXiv.2507.22291. doi:10.48550/arXiv.2507.22291
+
+https://medium.com/google-earth/ai-powered-pixels-introducing-googles-satellite-embedding-dataset-31744c1f4650
