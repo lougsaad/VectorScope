@@ -1,7 +1,5 @@
 # VectorScope: Similarity Search with Embeddings
 
-App link: https://ee-iameztoy.projects.earthengine.app/view/vectorscope
-
 ## Overview
 
 **VectorScope** is a Google Earth Engine application that leverages Google’s Satellite Embedding V1 to map “pixels that look like your samples.” You can either draw sample points within the UI or load them from an existing Earth Engine asset. The app computes a cosine-similarity heat-map of 64-dimensional embeddings for any year between 2017 and 2025, allows threshold tuning, toggles the heat-map on/off, and exports a binary mask to your choice of projections (WGS 84, UTM, EPSG 3587).
