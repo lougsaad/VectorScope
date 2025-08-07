@@ -1,3 +1,9 @@
+
+/**
+ * © 2025 Iban Ameztoy — MIT License
+ * See LICENSE file in repository root for full terms.
+ */
+
 /****************************************************************
  *  VectorScope: Similarity Search with Embeddings
  *  (Google Satellite Embeddings V1)
