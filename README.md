@@ -1,6 +1,6 @@
 # VectorScope: Similarity Search with Embeddings
 
-![VectorScope logo](assets/vectorScope Logo2.png)
+![VectorScope logo](assets/vectorScopeLogo2.png)
 
 ## Overview
 
