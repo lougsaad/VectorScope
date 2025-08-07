@@ -1,6 +1,6 @@
 # VectorScope: Similarity Search with Embeddings
 
-![VectorScope logo](Logo.png)
+App link: https://ee-iameztoy.projects.earthengine.app/view/vectorscope
 
 ## Overview
 
