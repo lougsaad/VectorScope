@@ -10,7 +10,7 @@ App link: https://ee-iameztoy.projects.earthengine.app/view/vectorscope
 
 - **AOI drawing**: define your area of interest with a single polygon or rectangle.  
 - **Sample points**: draw your own points or load a point FeatureCollection asset.  
-- **Year & threshold**: select year (2017–2025) and similarity threshold (0.80–0.99).  
+- **Year & threshold**: select year and similarity threshold (0.80–0.99).  
 - **Heat-map & mask**: view continuous similarity, then generate a binary magenta mask above threshold.  
 - **Export**: save the mask as an Earth Engine asset in WGS 84, UTM (auto-zone), or EPSG 3587.
 
