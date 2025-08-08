@@ -6,7 +6,7 @@
 
 ## Note
 Some functionality is still pending fixes. For example, Export to Asset currently throws an error. I’ll address this as soon as I have time.
-In the meantime, you can use this simplified version -- https://github.com/iameztoy/VectorScope/blob/main/code/simp_lf.js --, where you can manually set the area of interest, samples, and export the results. The code includes an AOI and sample data for detecting lava flows in the northernmost sector of the Tanganyika Basin.
+In the meantime, if you want to export your results to an asset you can use this simplified version -- https://github.com/iameztoy/VectorScope/blob/main/code/simp_lf.js --, where you can manually set the area of interest, samples, and export the results. The code includes an AOI and sample data for detecting lava flows in the northernmost sector of the Tanganyika Basin.
 
 ## Features
 
