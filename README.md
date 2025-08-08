@@ -4,6 +4,9 @@
 
 **VectorScope** is a Google Earth Engine application that leverages Google’s Satellite Embedding V1 to map “pixels that look like your samples.” You can either draw sample points within the UI or load them from an existing Earth Engine asset. The app computes a cosine-similarity heat-map of 64-dimensional embeddings for any year between 2017 and 2025, allows threshold tuning, toggles the heat-map on/off, and exports a binary mask to your choice of projections (WGS 84, UTM, EPSG 3587).
 
+## Note
+Some functionality is still pending fixes. For example, Export to Asset currently throws an error. I’ll address this as soon as I have the time.
+
 ## Features
 
 - **AOI drawing**: define your area of interest with a single polygon or rectangle.  
