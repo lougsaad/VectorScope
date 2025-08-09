@@ -168,7 +168,7 @@ Map.addLayer(predictedMatches, {color: 'cyan'}, 'Predicted lava pixels');
 Export.image.toAsset({
   image: lavaMask.toByte(),
   description: 'lava_similarity_mask_' + year,
-  assetId: 'projects/hardy-tenure-383607/assets/Tanganyika/lava_similarity_mask_' + year, // <-- edit
+  assetId: 'your-asset-path/lava_similarity_mask_' + year, // <-- edit
   region: export_a,
   scale: scale,
   maxPixels: 1e10,
