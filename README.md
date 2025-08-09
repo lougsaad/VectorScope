@@ -34,6 +34,9 @@ Brown, C. F., Kazmierski, M. R., Pasquarella, V J., Rucklidge, W. J., Samsikova,
 
 https://medium.com/google-earth/ai-powered-pixels-introducing-googles-satellite-embedding-dataset-31744c1f4650
 
+Code adapted from:
+https://developers.google.com/earth-engine/tutorials/community/satellite-embedding-05-similarity-search?hl=es-419
+
 ## LICENSE
 
 MIT License
